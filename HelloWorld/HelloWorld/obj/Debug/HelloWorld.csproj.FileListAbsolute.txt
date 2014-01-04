@@ -4,6 +4,3 @@ c:\users\mathu\documents\visual studio 2012\Projects\HelloWorld\HelloWorld\bin\D
 c:\users\mathu\documents\visual studio 2012\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
 c:\users\mathu\documents\visual studio 2012\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 c:\users\mathu\documents\visual studio 2012\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
-C:\Users\mathu\GitDirectory\Test\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
-C:\Users\mathu\GitDirectory\Test\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
-C:\Users\mathu\GitDirectory\Test\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
