@@ -16,6 +16,8 @@ namespace HelloWorld
             Panda panda2 = new Panda("Panda2");            
             Console.WriteLine("Panda2 Info:" + " " + panda2.name + " " + Panda.population);
 
+            Console.WriteLine("Hello Panda World");
+
             Console.ReadLine();
 
         }
